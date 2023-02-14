@@ -1,0 +1,63 @@
+[
+    {
+        "id": 1,
+        "name": "Medieval Mochi",
+        "description": "medieval supreme motherdog."
+    },
+
+    
+    {
+        "id": 2,
+        "name": "Medieval Pyper",
+        "description": "Medieval black monkeydog."
+    },
+
+    {
+        "id": 3,
+        "name": "Daria Jane Susyl",
+        "description": "Susyl with Daria and Jane."
+    },
+
+    {
+        "id": 4,
+        "name": "Planthead Susyl",
+        "description": "Susyl with a smol plant on her head."
+    },
+
+    {
+        "id": 5,
+        "name": "Frogheart Sock",
+        "description": "Just a sock with cute froghearts"
+    },
+
+    {
+        "id": 6,
+        "name": "Sneakerfrog",
+        "description": "A frog with Chuck Taylor."
+    },
+
+    {
+        "id": 7,
+        "name": "Bad Posture",
+        "description": "Susyl is turning into shrimp."
+    },
+
+    {
+        "id": 8,
+        "name": "Iced Coping",
+        "description": "Overcoming problems with coffee."
+    },
+
+
+    {
+        "id": 9,
+        "name": "Bless Tita",
+        "description": "Tita offering her bless."
+    },
+
+    {
+        "id": 10,
+        "name": "Bathroom Breakdown",
+        "description": "She's breaking down."
+    }
+]
